@@ -1,0 +1,10 @@
+Lab5:
+	- 5.1 Mer GUI: Meyner!
+	- 5.2 Resurshantering
+	- 5.3 Poänghantering
+	- 5.4 Spara på fil
+	- 5.5 Felhantering
+	- 5.6 Paus i spelet
+	- 5.7 Gradvis uppsnabbning
+	- 5.8 Säker skrivning
+	- 5.9 Powerups med State-mönstret
